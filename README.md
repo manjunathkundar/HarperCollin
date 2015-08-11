@@ -1,2 +1,2 @@
 # HarperCollin
-Book Publisher
+Book Publisher and distributer
